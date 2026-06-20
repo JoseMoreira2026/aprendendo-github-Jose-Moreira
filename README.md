@@ -1,0 +1,2 @@
+# aprendendo-github-Jose-Moreira
+UC00623_02 GPROGRAMAçÃO COM INTELIGÊNCIA ARTIFICIAL
