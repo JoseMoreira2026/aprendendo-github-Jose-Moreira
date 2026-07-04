@@ -1,0 +1,11 @@
+# INÍCIO
+# Declarar o array
+array = [10, 20, 30, 40, 50]
+# Inicializar a soma
+soma = 0
+# Percorrer o array
+for elemento in array:
+   soma = soma + elemento
+# Mostrar o resultado
+print("A soma dos elementos é:", soma)
+# FIM
